@@ -25,6 +25,9 @@ Planned improvements:
 ## Learning roadmap
 
 v1 - Basic CLI calculator ✅
+
 v2 - Improved input handling
+
 v3 - Expression parser
+
 v4 - AST evaluation
